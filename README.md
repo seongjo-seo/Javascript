@@ -1,1 +1,1 @@
-### javascript에 대한 Repositories입니다.
+### javascript에 대한 Repository입니다.
